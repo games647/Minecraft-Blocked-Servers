@@ -1,9 +1,9 @@
 // These are SHA-1 representations of the blocked servers, fetched from https://sessionserver.mojang.com/blockedservers
 a26f64ba73e751fec1e3c57e04ca184b32f575de : timelesspvp.net
 e5477a2abfba7383cee228af82ad0c2ded388823 : play.gotpvp.com
-7769862d9ededd5d68dbb3fa0e36eabea693737a
-c78045f5aef524a3f899041269fa9daa3639c8bf
-447985e7ef8477134681d8589961480b171f73dc
+7769862d9ededd5d68dbb3fa0e36eabea693737a : play.endercraft.com
+c78045f5aef524a3f899041269fa9daa3639c8bf : hub.endercraft.com
+447985e7ef8477134681d8589961480b171f73dc : ps.endercraft.com
 c798f76e83ac9513a16574cb7b52c5cf76ad1bdd : brawl.com
 206cf1a19de370289447c931ab53e1f8e9eaded4 : mc.minevast.com
 879f1dea801746b51a2a908b04f7fe6fff5f7a47
