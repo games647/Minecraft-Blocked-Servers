@@ -9,7 +9,7 @@ public class Contribute {
     private static final String HASH_ALGO = "SHA-1";
 
     public static void main(String[] args) {
-        System.out.println(hash("pvp.muxcraft.eu"));
+        System.out.println(hash("example.minecraft.com"));
     }
 
     public static String hash(String serverAddress) {
