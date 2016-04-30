@@ -8,6 +8,8 @@ these servers by email ("Mojang BrandEnforcement"). If they still not follow the
 disconnect with the message: "java.net.SocketException: Network is unreachable" which actual means the server is down.
 (=>misleading message)
 
+Update: Found out that they have also wildcard support. So for example *.server.com can be banned too.
+
 ## List of all blocked servers
 
 https://sessionserver.mojang.com/blockedservers
