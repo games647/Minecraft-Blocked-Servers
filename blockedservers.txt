@@ -28,4 +28,4 @@ e749acc18647b42cda870d87cb8c47f5b8df8a3c : mc.desiredcraft.net
 b1540c3a84161a990e3347821859da577272479c : powercraft.me
 9d1cebe7c9b20bccaee420d31336cb589692aded : fadecloud.com
 c40f20149f3d694ef47c152f7bc21b1e16ff702d : mc.diacraft.org
-8c86c0e833d42efa4a38fad7e5267eb24bc120ed
+8c86c0e833d42efa4a38fad7e5267eb24bc120ed : play.menoxia.com
