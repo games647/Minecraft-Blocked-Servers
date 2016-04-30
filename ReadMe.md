@@ -15,3 +15,20 @@ https://sessionserver.mojang.com/blockedservers
 ## Reddit post
 
 https://www.reddit.com/r/Minecraft/comments/4h3c6u/mojang_is_blocking_certain_servers_as_of_193_r2/
+
+## Minecraft related code
+
+### In Minecraft 1.9.3 r2
+
+* Disconnect: **File**: ```beg.class``` **Line**: ```52-67``` **Method**:
+```java
+private void a(String, int)
+```
+* Download the list and check every entry: **File**: ```bcd.class``` **Line**: 2968-3002 **Method**:
+```java
+public boolean a(String)
+```
+* Hash generate from address **File**: bcd.class **Line**: 3006 **Method**:
+```java
+public boolean a(String)
+```
