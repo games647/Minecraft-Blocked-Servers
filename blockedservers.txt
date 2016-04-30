@@ -15,7 +15,7 @@ ad9ad38574b4966fa537dd64e82807a185b7185a : phoenixnexus.net
 a2e2be30dc9be014f171c8a3bbe955e55fd66d87
 5c0394de667213e400dd21ffe4370b05566da22a : mc.eldercraft.de
 ec43b2d08469e46f465a9acccc78690a316d5ef3 : play.phanaticmc.com
-699994152eacdc9279944c3f1fe0ee7645b605e7
+699994152eacdc9279944c3f1fe0ee7645b605e7 : ftb.phanaticmc.com
 da9225e1f2baab028e37a1f34441bf18ce01298e : play.guildcraft.org
 6d22ec6bc474410014a96712077dd1d4ba42d8d8 : join.block-city.de
 f71d2762d4267cd0b3cefd502e6d6f016625a4b1 : play.primemc.org
