@@ -12,7 +12,7 @@ Update: Found out that they have also wildcard support. So for example *.server.
 
 Update 2: Cracked/offline mode player will also receive this message
 
-Update 3: Thanks to @DutchPlays for completing the list of all servers
+Update 3: Thanks to @DutchPlays for nearly completing the list of all servers (just one server is missing)
 
 ## List of all blocked servers
 
