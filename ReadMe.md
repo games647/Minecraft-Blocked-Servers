@@ -41,4 +41,4 @@ public boolean a(String)
 
 ### In Minecraft 1.9.3 r3
 
-It looks like the code has been removed
+It looks like that the code has been removed
