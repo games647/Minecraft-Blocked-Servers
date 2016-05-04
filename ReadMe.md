@@ -8,9 +8,11 @@ these servers by email ("Mojang BrandEnforcement"). If they still not follow the
 disconnect with the message: "java.net.SocketException: Network is unreachable" which actual means the server is down.
 (=>misleading message)
 
-Update: Found out that they have also wildcard support. So for example *.server.com can be banned too.
+Update: Found out that they have also wildcard support. So for example *.server.com or 0.0.0.* can be banned too.
 
 Update 2: Cracked/offline mode player will also receive this message
+
+Update 3: Thanks to @DutchPlays for completing the list of all servers
 
 ## List of all blocked servers
 
@@ -36,3 +38,7 @@ public boolean a(String)
 ```java
 public boolean a(String)
 ```
+
+### In Minecraft 1.9.3 r3
+
+It looks like the code has been removed
