@@ -6,7 +6,7 @@ c78045f5aef524a3f899041269fa9daa3639c8bf : hub.endercraft.com
 447985e7ef8477134681d8589961480b171f73dc : ps.endercraft.com
 c798f76e83ac9513a16574cb7b52c5cf76ad1bdd : brawl.com
 206cf1a19de370289447c931ab53e1f8e9eaded4 : mc.minevast.com
-879f1dea801746b51a2a908b04f7fe6fff5f7a47
+879f1dea801746b51a2a908b04f7fe6fff5f7a47 : play.insanenetwork.org
 7429bf7ad3c1f20d5443b2159f8c420556a5de6d : play.insanefactions.org
 cf883cb0b153f8777fc46bb9f40cd08446043165 : insanefactions.org
 5f2eceb54f642fb5f58abca0b52f7f0349f06cef : skygod.us
