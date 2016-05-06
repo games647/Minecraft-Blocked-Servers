@@ -14,6 +14,8 @@ Update 2: Cracked/offline mode player will also receive this message
 
 Update 3: Thanks to @DutchPlays for nearly completing the list of all servers (just one server is missing)
 
+Update 4: All servers are found
+
 ## List of all blocked servers
 
 https://sessionserver.mojang.com/blockedservers
