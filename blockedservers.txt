@@ -10,8 +10,8 @@ fed9abeb28570d2ff21b63d71fa7e89c16a8223f : *.mc-war.com //pieter
 1162820f95ca042fee285727aa26c7767d3096e8 : *.mcctf.com
 a7905f64f7e774579a4eaeccb99994891f6858d0 : *.minecraftbuild.com
 dcc8631638079ced7d3ba5db2e2bc0dbdfd244ba : *.minecraftparty.com
-353e29a0a1a38ecfc96731f1d23199afd35878e3 :
-6a2617ac6da1d3c98214ee499438f72620b9cc48 :
+353e29a0a1a38ecfc96731f1d23199afd35878e3 : *.mcbrawl.com
+6a2617ac6da1d3c98214ee499438f72620b9cc48 : *.mcpvp.com
 75df09492c6c979e2db41116100093bb791b8433 : *.timelesspvp.net
 f05ff11b25bbdb642081950711f19cd82354a02c : *.minevast.com
 cc8e1ae93571d144bf4b37369cb8466093d6db5a : *.thearchon.net
