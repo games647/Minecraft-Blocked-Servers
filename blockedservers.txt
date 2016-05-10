@@ -28,6 +28,7 @@ d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
 90633e9040d5a3315a884030ff075ef4cbda7b46 : *.fadecloud.com
 073ca448ef3d311218d7bd32d6307243ce22e7d0 : *.diacraft.org
 a5944b9707fdb2cc95ed4ef188cf5f3151ac0525 : *.guildcraft.org
+b6be9d7e857ea859c08a30bf03d7373f7ebcd159
 4d303ec6c914007f3214ce9184e1891e97af71de : *.menoxia.com
 b6a07ec397644bf275cff7e87e8352f81d5b17a6 : *.block-city.de
 
