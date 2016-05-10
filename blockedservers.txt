@@ -1,3 +1,39 @@
+8bca9a9fd459096e50adac9a5c49f6b4c75078dd : *.ih-mc.com
+92c96470a85bc654878de75ed88a058aa9dd4d26 : *.datpixel.net
+987c989fca662d36b0ab262938b4b0c044f564d5 : *.mcskyblock.com
+5c0f8d09542f98d7bfc165adf819aa704a571b16 : *.phanaticmc.com
+a4041fc65567fd112128d0cb49c7021fcfac542f : *.brawl.com
+492465aa3a847b23dce5b7307bff86d0ab90c568 : *.kitbrawl.com
+72e5e5180886a435bae029f9dc63f70f8dac7033 : *.mc-hg.com //pieter
+fed9abeb28570d2ff21b63d71fa7e89c16a8223f : *.mc-war.com //pieter
+35ec473879985c10e6e34fe2e84d65da4514698e : *.mc-warz.com //pieter
+1162820f95ca042fee285727aa26c7767d3096e8 : *.mcctf.com
+a7905f64f7e774579a4eaeccb99994891f6858d0 : *.minecraftbuild.com
+dcc8631638079ced7d3ba5db2e2bc0dbdfd244ba : *.minecraftparty.com
+75df09492c6c979e2db41116100093bb791b8433 : *.timelesspvp.net
+f05ff11b25bbdb642081950711f19cd82354a02c : *.minevast.com
+cc8e1ae93571d144bf4b37369cb8466093d6db5a : *.thearchon.net
+5ca81746337088b7617c851a1376e4f00d921d9e : *.gotpvp.com
+6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com
+ecafe92c6d27201f0acb08b7ef963ac998378d96 : *.desiredcraft.net
+b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
+3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
+e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
+b140bec2347bfbe6dcae44aa876b9ba5fe66505b : *.phoenixnexus.net
+c005ad34245a8f2105658da2d6d6e8545ef0f0de : *.skygod.us
+29b53a59766f0a58ad0dd33cc7d093faddf4c60c : *.paradise-mc.net
+6051dd0dd4624f747d7c158b23896de12429e8ed : *.powercraft.me
+c78697e385bfa58d6bd2a013f543cdfbdc297c4f : *.mineaqua.net
+d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
+90633e9040d5a3315a884030ff075ef4cbda7b46 : *.fadecloud.com
+073ca448ef3d311218d7bd32d6307243ce22e7d0 : *.diacraft.org
+a5944b9707fdb2cc95ed4ef188cf5f3151ac0525 : *.guildcraft.org
+4d303ec6c914007f3214ce9184e1891e97af71de : *.menoxia.com
+b6a07ec397644bf275cff7e87e8352f81d5b17a6 : *.block-city.de
+
+
+
+
 // These are SHA-1 representations of the blocked servers, fetched from https://sessionserver.mojang.com/blockedservers
 a26f64ba73e751fec1e3c57e04ca184b32f575de : timelesspvp.net
 e5477a2abfba7383cee228af82ad0c2ded388823 : play.gotpvp.com
