@@ -41,6 +41,6 @@ public boolean a(String)
 public boolean a(String)
 ```
 
-### In Minecraft 1.9.3 r3
+### In Minecraft 1.9.3 r3 and 1.9.3 official release
 
-It looks like that the code has been removed
+Implementation was re-added. Now with wildcards
