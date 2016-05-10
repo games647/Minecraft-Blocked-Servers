@@ -16,6 +16,7 @@ dcc8631638079ced7d3ba5db2e2bc0dbdfd244ba : *.minecraftparty.com
 75df09492c6c979e2db41116100093bb791b8433 : *.timelesspvp.net
 f05ff11b25bbdb642081950711f19cd82354a02c : *.minevast.com
 cc8e1ae93571d144bf4b37369cb8466093d6db5a : *.thearchon.net
+9e83ea9505d4961a9cf3af620db0bd3580b730c1 : 162.220.33.*
 5ca81746337088b7617c851a1376e4f00d921d9e : *.gotpvp.com
 d0a08dff1e72e2bcd5d666b6992756ef587ad355 : *.gotpvp2.com
 4f3e2d06f408929a408e97e39a2a072d6d51d9b5 : *.factions.xxx
