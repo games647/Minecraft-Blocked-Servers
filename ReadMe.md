@@ -48,8 +48,8 @@ Implementation was re-added. Now with wildcards.
 Mojang introduced a new library. This can be found in .minecraft/libraries/com/mojang/netty/1.4
 
 There you can find the method
-``java
+```java
 isBlockedServer(String)
-``
+```
 , which is nearly equal to the one in 1.9.3 r2. **This makes it possible to block these servers also for older Minecraft
 versions** .

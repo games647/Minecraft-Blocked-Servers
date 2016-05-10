@@ -43,7 +43,7 @@ b6a07ec397644bf275cff7e87e8352f81d5b17a6 : *.block-city.de
 
 
 
-
+// old list - no longer valid
 // These are SHA-1 representations of the blocked servers, fetched from https://sessionserver.mojang.com/blockedservers
 a26f64ba73e751fec1e3c57e04ca184b32f575de : timelesspvp.net
 e5477a2abfba7383cee228af82ad0c2ded388823 : play.gotpvp.com
