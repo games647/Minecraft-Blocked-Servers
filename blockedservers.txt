@@ -37,6 +37,7 @@ ecafe92c6d27201f0acb08b7ef963ac998378d96 : *.desiredcraft.net
 a414a50071fac47ec93cd43e92fd9246cb3ad0a7 : *.desiredcraft.xyz
 59b6691244b2be09cce3b13093cfd97de5e186d6 : *.desiredcraft.online
 eb4c48e0043e58b9e5c0d3d964de1ee4ea0c3acd : dcmc1.hopto.org
+b3a46abe75aefc46277dd689225d1656e78fe9b0 : mcdc2.ddns.net
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
 e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
