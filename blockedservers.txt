@@ -2,6 +2,7 @@
 92c96470a85bc654878de75ed88a058aa9dd4d26 : *.datpixel.net
 987c989fca662d36b0ab262938b4b0c044f564d5 : *.mcskyblock.com
 5c0f8d09542f98d7bfc165adf819aa704a571b16 : *.phanaticmc.com
+d0a8085ea50508f6e15d6cad3461548e1434bf5e : unknown
 a4041fc65567fd112128d0cb49c7021fcfac542f : *.brawl.com
 492465aa3a847b23dce5b7307bff86d0ab90c568 : *.kitbrawl.com
 72e5e5180886a435bae029f9dc63f70f8dac7033 : *.mc-hg.com //pieter
@@ -33,12 +34,14 @@ d0a08dff1e72e2bcd5d666b6992756ef587ad355 : *.gotpvp2.com
 ecafe92c6d27201f0acb08b7ef963ac998378d96 : *.desiredcraft.net
 a414a50071fac47ec93cd43e92fd9246cb3ad0a7 : *.desiredcraft.xyz
 59b6691244b2be09cce3b13093cfd97de5e186d6 : *.desiredcraft.online
+eb4c48e0043e58b9e5c0d3d964de1ee4ea0c3acd : unknown
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
 e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b : *.phoenixnexus.net
 c005ad34245a8f2105658da2d6d6e8545ef0f0de : *.skygod.us
 29b53a59766f0a58ad0dd33cc7d093faddf4c60c : *.paradise-mc.net
+e624c487282deb006edb612fa7dbfc2d359de355 : 158.69.22.182 (paradise-mc.net)
 6051dd0dd4624f747d7c158b23896de12429e8ed : *.powercraft.me
 c78697e385bfa58d6bd2a013f543cdfbdc297c4f : *.mineaqua.net
 d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
