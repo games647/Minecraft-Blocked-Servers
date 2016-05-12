@@ -1,13 +1,12 @@
-8bca9a9fd459096e50adac9a5c49f6b4c75078dd : *.ih-mc.com
-92c96470a85bc654878de75ed88a058aa9dd4d26 : *.datpixel.net
 987c989fca662d36b0ab262938b4b0c044f564d5 : *.mcskyblock.com
 5c0f8d09542f98d7bfc165adf819aa704a571b16 : *.phanaticmc.com
 d0a8085ea50508f6e15d6cad3461548e1434bf5e : unblacklistphan.servebeer.com
+7137afe095f5185b74211e251fc264a77653e143 : phanatic.mooo.com
 a4041fc65567fd112128d0cb49c7021fcfac542f : *.brawl.com
 492465aa3a847b23dce5b7307bff86d0ab90c568 : *.kitbrawl.com
-72e5e5180886a435bae029f9dc63f70f8dac7033 : *.mc-hg.com //pieter
-fed9abeb28570d2ff21b63d71fa7e89c16a8223f : *.mc-war.com //pieter
-35ec473879985c10e6e34fe2e84d65da4514698e : *.mc-warz.com //pieter
+72e5e5180886a435bae029f9dc63f70f8dac7033 : *.mc-hg.com
+fed9abeb28570d2ff21b63d71fa7e89c16a8223f : *.mc-war.com
+35ec473879985c10e6e34fe2e84d65da4514698e : *.mc-warz.com
 1162820f95ca042fee285727aa26c7767d3096e8 : *.mcctf.com
 a7905f64f7e774579a4eaeccb99994891f6858d0 : *.minecraftbuild.com
 dcc8631638079ced7d3ba5db2e2bc0dbdfd244ba : *.minecraftparty.com
@@ -20,6 +19,7 @@ b24b753c34fb82e04c7dc0a8db7f7a185aa6bf06 : 192.99.46.105
 75df09492c6c979e2db41116100093bb791b8433 : *.timelesspvp.net
 f05ff11b25bbdb642081950711f19cd82354a02c : *.minevast.com
 e22708993e4a057e7a3e7e4e819fe62765e6b894 : *.minevast.net
+38f44f7756e9290e00376f5328eecf1c5635aeaa : *.parkourse.com
 cc8e1ae93571d144bf4b37369cb8466093d6db5a : *.thearchon.net
 2bcb0f010666b551558bdbfc71d7ce1244454e9b : 162.220.33.5
 d8ed12096e2621f5e787f14b0bc099c2c829fc97 : 162.220.33.6
@@ -32,64 +32,35 @@ d0a08dff1e72e2bcd5d666b6992756ef587ad355 : *.gotpvp2.com
 4f3e2d06f408929a408e97e39a2a072d6d51d9b5 : *.factions.xxx
 9c0806e5ffaccb45121e57e4ce88c7bc76e057f1 : *.goatpvp.com
 078388b4ae6d7ebd55e34b2c509365089cc1d51d : *.mylifestyle.net
-6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com:
+4beadc418a2b8f1acc628110537cd197ba256538 : 23.238.135.50
+29f169d0eb6e7309cfa9b8fcc6a703961be3114f : 23.238.135.162
+0289b724a7c711d7a212e79f09c01754bd20bf84 : 23.238.135.170
+3efcf3d208a3ca53ac32e79277a0767ffb1093e7 : 23.238.135.166
+4405e8896cff266c564fac7fe07a6b03e1cc5a4a : 23.238.135.250
+c69c4122de56434c5e1dec2f659429b843d63092 : 31.220.12.144
+6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com
 ecafe92c6d27201f0acb08b7ef963ac998378d96 : *.desiredcraft.net
 a414a50071fac47ec93cd43e92fd9246cb3ad0a7 : *.desiredcraft.xyz
 59b6691244b2be09cce3b13093cfd97de5e186d6 : *.desiredcraft.online
 eb4c48e0043e58b9e5c0d3d964de1ee4ea0c3acd : dcmc1.hopto.org
 b3a46abe75aefc46277dd689225d1656e78fe9b0 : mcdc2.ddns.net
+b2537a3a08993c3ab0531b1720c6677ea27738f0 : 172.106.14.42
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
 e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b : *.phoenixnexus.net
 c005ad34245a8f2105658da2d6d6e8545ef0f0de : *.skygod.us
-29b53a59766f0a58ad0dd33cc7d093faddf4c60c : *.paradise-mc.net
-e624c487282deb006edb612fa7dbfc2d359de355 : 158.69.22.182 (paradise-mc.net)
+11a2c115510bfa6cb56bbd18a7259a4420498fd5 : *.slaughterhousepvp.com
 6051dd0dd4624f747d7c158b23896de12429e8ed : *.powercraft.me
 c78697e385bfa58d6bd2a013f543cdfbdc297c4f : *.mineaqua.net
 d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
 510be143309468d288858f7830343e8e4bf817c4 : *.buildingdave.de
 90633e9040d5a3315a884030ff075ef4cbda7b46 : *.fadecloud.com
 073ca448ef3d311218d7bd32d6307243ce22e7d0 : *.diacraft.org
+33839f4006d6044a3a6675c593fada6a690bb64d : *.diacraft.de
 a5944b9707fdb2cc95ed4ef188cf5f3151ac0525 : *.guildcraft.org
 b6be9d7e857ea859c08a30bf03d7373f7ebcd159 : *.guildcraft.nl
 27edda0818df592710ec147d298a4182f70f3a80 : 37.187.133.106
 4d303ec6c914007f3214ce9184e1891e97af71de : *.menoxia.com
 266723d98e2cccb7b45c9364c7716efe4da00dfa : *.styxnetwork.net
 b6a07ec397644bf275cff7e87e8352f81d5b17a6 : *.block-city.de
-
-
-
-// old list - no longer valid
-// These are SHA-1 representations of the blocked servers, fetched from https://sessionserver.mojang.com/blockedservers
-a26f64ba73e751fec1e3c57e04ca184b32f575de : timelesspvp.net
-e5477a2abfba7383cee228af82ad0c2ded388823 : play.gotpvp.com
-7769862d9ededd5d68dbb3fa0e36eabea693737a : play.endercraft.com
-c78045f5aef524a3f899041269fa9daa3639c8bf : hub.endercraft.com
-447985e7ef8477134681d8589961480b171f73dc : ps.endercraft.com
-c798f76e83ac9513a16574cb7b52c5cf76ad1bdd : brawl.com
-206cf1a19de370289447c931ab53e1f8e9eaded4 : mc.minevast.com
-879f1dea801746b51a2a908b04f7fe6fff5f7a47 : play.insanenetwork.org
-7429bf7ad3c1f20d5443b2159f8c420556a5de6d : play.insanefactions.org
-cf883cb0b153f8777fc46bb9f40cd08446043165 : insanefactions.org
-5f2eceb54f642fb5f58abca0b52f7f0349f06cef : skygod.us
-ad9ad38574b4966fa537dd64e82807a185b7185a : phoenixnexus.net
-5ff97c1058f402ef8f5bcd310f610bad8ad34460 : play.paradise-mc.net
-a2e2be30dc9be014f171c8a3bbe955e55fd66d87 : play.mineaqua.net
-5c0394de667213e400dd21ffe4370b05566da22a : mc.eldercraft.de
-ec43b2d08469e46f465a9acccc78690a316d5ef3 : play.phanaticmc.com
-699994152eacdc9279944c3f1fe0ee7645b605e7 : ftb.phanaticmc.com
-da9225e1f2baab028e37a1f34441bf18ce01298e : play.guildcraft.org
-6d22ec6bc474410014a96712077dd1d4ba42d8d8 : join.block-city.de
-f71d2762d4267cd0b3cefd502e6d6f016625a4b1 : play.primemc.org
-8d278c5485692602e0cc0838373003512f1a7a11 : play.ih-mc.com
-ff232cafc67eb1a23594a2898fc627c2b1020064 : pvp.thearchon.net
-954aeb4ee90feb42f30de0ec1a0e8685660a7336 : epicpvp.eu
-18a825afbbe872f6138d07f16840c312ff971baa : pvp.muxcraft.eu
-980343d3239d599ab44f82a5a56b1cfc5d4623d4 : minetime.com
-7f97b2029f696caf320acb36ca56546c6860bdd0 : play.datpixel.net
-e749acc18647b42cda870d87cb8c47f5b8df8a3c : mc.desiredcraft.net
-b1540c3a84161a990e3347821859da577272479c : powercraft.me
-9d1cebe7c9b20bccaee420d31336cb589692aded : fadecloud.com
-c40f20149f3d694ef47c152f7bc21b1e16ff702d : mc.diacraft.org
-8c86c0e833d42efa4a38fad7e5267eb24bc120ed : play.menoxia.com
