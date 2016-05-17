@@ -1,7 +1,3 @@
-987c989fca662d36b0ab262938b4b0c044f564d5 : *.mcskyblock.com
-5c0f8d09542f98d7bfc165adf819aa704a571b16 : *.phanaticmc.com
-d0a8085ea50508f6e15d6cad3461548e1434bf5e : unblacklistphan.servebeer.com
-7137afe095f5185b74211e251fc264a77653e143 : phanatic.mooo.com
 a4041fc65567fd112128d0cb49c7021fcfac542f : *.brawl.com
 492465aa3a847b23dce5b7307bff86d0ab90c568 : *.kitbrawl.com
 72e5e5180886a435bae029f9dc63f70f8dac7033 : *.mc-hg.com
@@ -34,19 +30,12 @@ d0a08dff1e72e2bcd5d666b6992756ef587ad355 : *.gotpvp2.com
 3efcf3d208a3ca53ac32e79277a0767ffb1093e7 : 23.238.135.166
 4405e8896cff266c564fac7fe07a6b03e1cc5a4a : 23.238.135.250
 6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com
-ecafe92c6d27201f0acb08b7ef963ac998378d96 : *.desiredcraft.net
-a414a50071fac47ec93cd43e92fd9246cb3ad0a7 : *.desiredcraft.xyz
-59b6691244b2be09cce3b13093cfd97de5e186d6 : *.desiredcraft.online
-eb4c48e0043e58b9e5c0d3d964de1ee4ea0c3acd : dcmc1.hopto.org
-b3a46abe75aefc46277dd689225d1656e78fe9b0 : mcdc2.ddns.net
-b2537a3a08993c3ab0531b1720c6677ea27738f0 : 172.106.14.42
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
 e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b : *.phoenixnexus.net
 c005ad34245a8f2105658da2d6d6e8545ef0f0de : *.skygod.us
 11a2c115510bfa6cb56bbd18a7259a4420498fd5 : *.slaughterhousepvp.com
-6051dd0dd4624f747d7c158b23896de12429e8ed : *.powercraft.me
 c78697e385bfa58d6bd2a013f543cdfbdc297c4f : *.mineaqua.net
 c645d6c6430db3069abd291ec13afebdb320714b : *.mineaqua.es
 d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
@@ -54,9 +43,6 @@ d312acbaedae1845cb098cd98ecd57ec426993eb : *.eldercraft.de
 90633e9040d5a3315a884030ff075ef4cbda7b46 : *.fadecloud.com
 073ca448ef3d311218d7bd32d6307243ce22e7d0 : *.diacraft.org
 33839f4006d6044a3a6675c593fada6a690bb64d : *.diacraft.de
-a5944b9707fdb2cc95ed4ef188cf5f3151ac0525 : *.guildcraft.org
-b6be9d7e857ea859c08a30bf03d7373f7ebcd159 : *.guildcraft.nl
-27edda0818df592710ec147d298a4182f70f3a80 : 37.187.133.106
 4d303ec6c914007f3214ce9184e1891e97af71de : *.menoxia.com
 266723d98e2cccb7b45c9364c7716efe4da00dfa : *.styxnetwork.net
 b6a07ec397644bf275cff7e87e8352f81d5b17a6 : *.block-city.de
