@@ -6,6 +6,7 @@ e3985eb936d66c9b07aa72c15358f92965b1194e : *.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b : *.phoenixnexus.net
 c005ad34245a8f2105658da2d6d6e8545ef0f0de : *.skygod.us
 11a2c115510bfa6cb56bbd18a7259a4420498fd5 : *.slaughterhousepvp.com
+75df09492c6c979e2db41116100093bb791b8433 : *.timelesspvp.net
 c78697e385bfa58d6bd2a013f543cdfbdc297c4f : *.mineaqua.net
 c645d6c6430db3069abd291ec13afebdb320714b : *.mineaqua.es
 709a849e4e7a986c8165083dccb9857bcb04c67b
