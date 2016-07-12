@@ -1,4 +1,3 @@
-27ae74becc8cd701b19f25d347faa71084f69acd : *.arkhamnetwork.org
 6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
