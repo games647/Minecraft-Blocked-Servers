@@ -13,3 +13,4 @@ c645d6c6430db3069abd291ec13afebdb320714b : *.mineaqua.es
 33839f4006d6044a3a6675c593fada6a690bb64d : *.diacraft.de
 4d303ec6c914007f3214ce9184e1891e97af71de : *.menoxia.com
 266723d98e2cccb7b45c9364c7716efe4da00dfa : *.styxnetwork.net
+f1836372dd47dddfd2e6366b08f0cb228cbc1614 : *.mafiacraft.net
