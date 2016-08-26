@@ -1,3 +1,12 @@
+27ae74becc8cd701b19f25d347faa71084f69acd : *.arkhamnetwork.org
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+d42339c120bc10a393a0b1d2c6a2e0ed4dbdd61b : *.herowars.org
+8bf58811e6ebca16a01b842ff0c012db1171d7d6 : *.eulablows.host
+724e88c2a28c49064e432dfe253a77d528b17b2f : *.yaymc.com
+4681a906b623ea044228f60d60acd18c0f90c11b : *.skyblocky.com
+4c2a8d9f3a5e6d7f180c79d85077ef20a3e0940f : *.opjails.org
+cc90e7b39112a48064f430d3a08bbd78a226d670 : *.eccgamers.com
+88f155cf583c930ffed0e3e69ebc3a186ea8cbb7 : *.fucktheeula.com
 6f2520f8bd70a718c568ab5274c56bdbbfc14ef4 : *.minetime.com
 b13009db1e2fbe05465716f67c8d58b9c0503520 : *.endercraft.com
 3e560742576af9413fca72e70f75d7ddc9416020 : *.insanefactions.org
@@ -11,4 +20,3 @@ c645d6c6430db3069abd291ec13afebdb320714b : *.mineaqua.es
 709a849e4e7a986c8165083dccb9857bcb04c67b
 073ca448ef3d311218d7bd32d6307243ce22e7d0 : *.diacraft.org
 33839f4006d6044a3a6675c593fada6a690bb64d : *.diacraft.de
-f1836372dd47dddfd2e6366b08f0cb228cbc1614 : *.mafiacraft.net
