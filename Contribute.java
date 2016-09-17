@@ -35,53 +35,54 @@ public class Contribute {
     public static boolean isBanned(String serverAddress) throws IOException {
         File bannedList = new File("./blockedservers.txt");
         List<String> lines = Files.readAllLines(bannedList.toPath());
-        for (String line : lines) {
-            if (line.startsWith("/") || line.trim().isEmpty()) {
-                continue;
-            }
-
-            String hash = line.substring(0, HASH_LENGTH);
-            if (hash.equals(hashServer(serverAddress.trim().toLowerCase()))) {
-                return true;
-            }
-
-            //\\ is used for escaping regEx
-            List<String> components = new ArrayList<>(Arrays.asList(serverAddress.split("\\" + IP_DELIMETER)));
-            boolean isIp = components.size() == 4;
-            if (isIp) {
-                for (String component : components) {
-                    try {
-                        int number = Integer.parseInt(component);
-                        if (number < 0 || number > 255) {
-                            //ip range is from 0.0.0.0 to 255.255.255.255
-                            isIp = false;
-                            break;
-                        }
-                    } catch (NumberFormatException numberFormatException) {
-                        //not a ip
-                        isIp = false;
-                        break;
+        lines.parallelStream()
+                .filter(line -> !line.startsWith(line))
+                .filter(line -> !line.trim().isEmpty())
+                .map(line -> line.substring(0, HASH_LENGTH))
+                .anyMatch(hash -> {
+                    if (hash.equals(hashServer(serverAddress.trim().toLowerCase()))) {
+                        return true;
                     }
-                }
-            }
 
-            while (components.size() > 1) {
-                components.remove(isIp ? (components.size() - 1) : 0);
+                    //\\ is used for escaping regEx
+                    List<String> components = new ArrayList<>(Arrays.asList(serverAddress.split("\\" + IP_DELIMETER)));
+                    boolean isIp = components.size() == 4;
+                    if (isIp) {
+                        for (String component : components) {
+                            try {
+                                int number = Integer.parseInt(component);
+                                if (number < 0 || number > 255) {
+                                    //ip range is from 0.0.0.0 to 255.255.255.255
+                                    isIp = false;
+                                    break;
+                                }
+                            } catch (NumberFormatException numberFormatException) {
+                                //not a ip
+                                isIp = false;
+                                break;
+                            }
+                        }
+                    }
 
-                String toTest;
-                if (isIp) {
-                    //example: 0.0.0.*
-                    toTest = String.join(IP_DELIMETER, components) + ".*";
-                } else {
-                    //example: *.server.com
-                    toTest = ("*." + String.join(IP_DELIMETER, components));
-                }
+                    while (components.size() > 1) {
+                        components.remove(isIp ? (components.size() - 1) : 0);
 
-                if (hash.equals(hashServer(toTest))) {
-                    return true;
-                }
-            }
-        }
+                        String toTest;
+                        if (isIp) {
+                            //example: 0.0.0.*
+                            toTest = String.join(IP_DELIMETER, components) + ".*";
+                        } else {
+                            //example: *.server.com
+                            toTest = ("*." + String.join(IP_DELIMETER, components));
+                        }
+
+                        if (hash.equals(hashServer(toTest))) {
+                            return true;
+                        }
+                    }
+
+                    return false;
+                });
 
         return false;
     }
