@@ -671,7 +671,6 @@ play.mccore.us
 houseofbending.com
 mcmonarch.co.uk
 play.hyrealm.net
-matecraft.org
 mc.bapcraft.com
 dfmc.co
 eu.modernpvp.com
@@ -7690,7 +7689,6 @@ lunaria.minecraft.ms
 play.xaloria.com
 77.111.202.227
 eliteenemy.mcserver.ws
-bombermate.matecraft.org
 s.minecraft.name
 192.99.20.92
 23.235.232.114
@@ -7737,7 +7735,6 @@ crafters.sheen.id.au
 216.172.107.242
 78.129.165.105
 mc.chaotic-network.com
-prison.matecraft.org
 theriftmc.com
 mcark.tw
 as.pixelbude.org
@@ -7746,7 +7743,6 @@ mc.ender-network.net
 play.gritnetwork.me
 94.23.253.81
 162.244.166.121
-hungergames.matecraft.org
 184.95.50.146
 mc.crafting-elemental.com
 167.114.102.147
@@ -7756,7 +7752,6 @@ mc.ostridgethebird.net
 167.114.118.218
 thecrafters.ddns.net
 osland2011.com
-mc.matecraft.org
 swisssmp.ch
 skyminecraft.com
 gproserver.net
@@ -7768,9 +7763,6 @@ open.mcpro.co
 ftb.mcnsa.com
 198.50.137.133
 licencetomine.tritonone.com
-ftb.matecraft.org
-skyblock.matecraft.org
-creative.matecraft.org
 play.colorcraft.me
 play.hydraplex.net
 maushaus.serverminer.com
