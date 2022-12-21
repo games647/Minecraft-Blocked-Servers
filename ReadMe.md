@@ -8,7 +8,7 @@ these servers by email ("Mojang BrandEnforcement"). If they still not follow the
 disconnect with the message: "java.net.SocketException: Network is unreachable" which actual means the server is down.
 (=>misleading message)
 
-Update: Found out that they have also wildcard support. So for example *.server.com or 0.0.0.* can be banned too.
+Update: Found out that they have also wildcard support. So for example `*.server.com` or `0.0.0.*` can be banned too.
 
 Update 2: Cracked/offline mode player will also receive this message
 
